@@ -79,10 +79,9 @@ y = 20;
 z = x + y;
 console.log(z);
 ```
-
-```
 ### Citação do Desafio 1
 
+```
 @Misc{moura2025desafio 1,
     author = {Moura Lima, Andre},
     title = {Desafio-1 Trilhas 2025},
