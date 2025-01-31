@@ -73,18 +73,17 @@ Implemente as seguintes tarefas utilizando **JavaScript**.
 
 1️⃣5️⃣ **Refatoração de Código:**  
 - Melhore a legibilidade do seguinte código, aplicando boas práticas de nomenclatura e separando em funções:  
-
-```javascript
 x = 10;
 y = 20;
 z = x + y;
 console.log(z);
 
 
-### Citação do PointNetLK5  
+```
+### Citação do Desafio 1
 
-@Misc{moura2025pointnetlk5,
-    author = {Moura Lima, André},
+@Misc{moura2025desafio 1,
+    author = {Moura Lima, Andre},
     title = {Desafio-1 Trilhas 2025},
     month = {January},
     year = {2025}, 
