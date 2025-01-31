@@ -2,7 +2,7 @@
 
 🗓️ **Data de Publicação:** 30/01/2025  
 💣 **Data de Entrega:** 12/02/2025  
-CIÊNCIA DE DADOS - ANDRE MOURA LIMA
+📊📈👨🏻‍💻👩🏻‍💻 CIÊNCIA DE DADOS - ANDRE MOURA LIMA
 ## 📖 1. Introdução  
 
 Para escrever um código, é necessário um editor ou uma plataforma hospedada na nuvem que permita aos usuários escrever e executar seus códigos. No entanto, a maioria das pessoas utiliza um **editor de código**, que proporciona uma maneira estruturada e organizada de escrever código.  
