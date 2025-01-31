@@ -2,5 +2,5 @@
 
 //Solução para alert para navegador podemos declarar da seguinte forma
 
-let nome = "Andre"; // let declarar variáveis em JavaScript.
+let nome = "Andre Moura"; // let declarar variáveis em JavaScript.
 alert(nome) //exibe uma caixa de diálogo no navegador com o valor da variável nome
