@@ -73,11 +73,12 @@ Implemente as seguintes tarefas utilizando **JavaScript**.
 
 1️⃣5️⃣ **Refatoração de Código:**  
 - Melhore a legibilidade do seguinte código, aplicando boas práticas de nomenclatura e separando em funções:  
+```
 x = 10;
 y = 20;
 z = x + y;
 console.log(z);
-
+```
 
 ```
 ### Citação do Desafio 1
@@ -90,6 +91,5 @@ console.log(z);
 Secretaria de Estado da Ciência, Tecnologia e Inovação  
 🌐 [SECTI-MA](https://secti.ma.gov.br/)  
 📍 Av. dos Holandeses, Quadra 33, Nº 09 -Calhau, São Luís - MA
-}
-}
+```
 
