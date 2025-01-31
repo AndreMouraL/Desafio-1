@@ -1,7 +1,8 @@
 # 🚀 Desafio 1 ✅  
 
 🗓️ **Data de Publicação:** 30/01/2025  
-💣 **Data de Entrega:** 12/02/2025  
+💣 **Data de Entrega:** 12/02/2025 
+🗓️ Data de Envio por Andre / / 
 📊📈👨🏻‍💻👩🏻‍💻 CIÊNCIA DE DADOS - ANDRE MOURA LIMA
 ## 📖 1. Introdução  
 
