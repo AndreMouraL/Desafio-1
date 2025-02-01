@@ -93,6 +93,6 @@ console.log(z);
     year = {2025}, 
 Secretaria de Estado da Ciência, Tecnologia e Inovação  
 🌐 [SECTI-MA](https://secti.ma.gov.br/)  
-📍 Av. dos Holandeses, Quadra 33, Nº 09 -Calhau, São Luís - MA
+📍 Av. dos Holandeses, Quadra 33, Nº 09 - Calhau, São Luís - MA
 ```
 
