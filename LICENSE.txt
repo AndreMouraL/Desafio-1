@@ -3,19 +3,19 @@ MIT License
 Copyright (c) 2025 Secretaria de Estado da Ciência, Tecnologia e Inovação - PROGRAMA TRILHAS INOVA 2B, Andre Moura Lima
 
 A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
-deste software e dos arquivos de documentação associados (o "Desafio-1"), para lidar
-com o Desafio-1 sem restrições, incluindo, sem limitação, os direitos de usar, copiar,
-modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Desafio-1,
-e permitir que as pessoas para as quais o Desafio-1 é fornecido o façam,
+deste software e dos arquivos de documentação associados (o "Desafio 1"), para lidar
+com o Desafio 1 sem restrições, incluindo, sem limitação, os direitos de usar, copiar,
+modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Desafio 1,
+e permitir que as pessoas para as quais o Desafio 1 é fornecido o façam,
 sujeito às seguintes condições:
 
 O aviso de direitos autorais acima e esta permissão deverão ser incluídos em todas
-as cópias ou partes substanciais do Desafio-1.
+as cópias ou partes substanciais do Desafio 1.
 
-O DESAFIO-1 É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE NENHUM TIPO,
+O DESAFIO 1 É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE NENHUM TIPO,
 EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO A, GARANTIAS DE
 COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO FIM E NÃO INFRAÇÃO. EM NENHUMA
 HIPÓTESE OS AUTORES OU DETENTORES DOS DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR
 QUALQUER REIVINDICAÇÃO, DANO OU OUTRA RESPONSABILIDADE, SEJA EM UMA AÇÃO
 CONTRATUAL, CIVIL OU DE OUTRA FORMA, DECORRENTE DE, OU RELACIONADA AO SOFTWARE
-OU AO USO OU OUTRAS TRANSAÇÕES NO DESAFIO-1.
+OU AO USO OU OUTRAS TRANSAÇÕES NO DESAFIO 1.
