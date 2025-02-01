@@ -5,11 +5,11 @@ let idade = 25;
 let altura = 1.75;
 
 alert('Idade: ' + idade + '\nAltura: ' + altura); // para quebra de linha.
-
+/*
 // outra forma no node.js: randando em node.js jutamente com a biblioteca code runner
-/*let idade = 25;
+let idade = 25;
 let altura = 1.75;
 
-console.log("Idade:", idade);
-console.log("Altura:", altura);*/
+console.log('Idade:', idade);
+console.log('Altura:', altura);*/
 //@AndreMouraL
