@@ -5,7 +5,7 @@
 
 📊📈👨🏻‍💻👩🏻‍💻 CIÊNCIA DE DADOS - ANDRE MOURA LIMA
 
-🗓️ Data de Envio por Andre em 01/02/2025
+🗓️ Data de Envio 01/02/2025
 
 ## 📖 1. Introdução  
 
