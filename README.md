@@ -5,7 +5,7 @@
 
 📊📈👨🏻‍💻👩🏻‍💻 CIÊNCIA DE DADOS - ANDRE MOURA LIMA
 
-🗓️ Data de Envio 01/02/2025
+🗓️ Data de Envio: 03/02/2025.
 
 ## 📖 1. Introdução  
 
@@ -15,6 +15,7 @@ Os editores geralmente destacam sintaticamente os elementos da linguagem (como p
 
 Um dos editores mais utilizados é o **Visual Studio Code (VS Code)**, que é gratuito, leve e altamente personalizável, desenvolvido pela Microsoft. Para quem está dando os primeiros passos, recomendamos assistir às primeiras aulas na Alura e conferir o material adicional no link abaixo:  
 
+📌 Observação: Esse desafio pode ser executado no terminal com Node.js e Code Runner ou no navegador com HTML atráves do Live Server.
 ---
 
 ## 🎯 2. Desafio  
