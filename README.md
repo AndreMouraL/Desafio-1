@@ -15,7 +15,7 @@ Os editores geralmente destacam sintaticamente os elementos da linguagem (como p
 
 Um dos editores mais utilizados é o **Visual Studio Code (VS Code)**, que é gratuito, leve e altamente personalizável, desenvolvido pela Microsoft. Para quem está dando os primeiros passos, recomendamos assistir às primeiras aulas na Alura e conferir o material adicional no link abaixo:  
 
-📌 Observação: Esse desafio pode ser executado no terminal com Node.js e Code Runner ou no navegador com HTML atráves do Live Server. Além disso, foi instalado a biblioteca npm install prompt-sync para executar no node.js ou npm install -g prompt-sync para global. a execução pode ser feita da seguinte forma: node "C:\Users\Lenovo\Documents\GitHub\Desafio-1\Desafio 1\Problema 6\prob06.js". isso vai depender do local em que o arquivo .js esta em sua máquina. 
+📌 Observação: Esse desafio pode ser executado no terminal com Node.js e Code Runner ou no navegador com HTML atráves do Live Server. Além disso, foi instalado a biblioteca npm install prompt-sync para executar no node.js ou npm install -g prompt-sync para global. A execução pode ser feita da seguinte forma: node "C:\Users\Lenovo\Documents\GitHub\Desafio-1\Desafio 1\Problema 6\prob06.js", isso vai depender do local em que o arquivo .js esta em sua máquina. 
 Observação: Você pode mover os arquivos da pasta sync e colocá-las na pasta desafio 1, que a execução funcionará corretamente.
 
 ---
