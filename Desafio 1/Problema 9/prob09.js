@@ -1,5 +1,5 @@
 //9- Crie um loop que imprima os números de 1 a 10 na tela.
-//No navegador
+//No node.js
 console.log('Boas vindas ao nosso site!');
 // Loop para imprimir os números de 1 a 10
 for (let i = 1; i <= 10; i++) {
